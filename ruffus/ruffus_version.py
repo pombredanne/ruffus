@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 ################################################################################
 #
 #   version.py
@@ -24,4 +23,4 @@
 #   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 #   THE SOFTWARE.
 #################################################################################
-__version='2.6.3'
+__version = '2.8.3'

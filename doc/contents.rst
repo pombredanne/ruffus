@@ -12,15 +12,16 @@ Start Here:
    :caption: Introduction
    :name: introduction_toc
 
+   index.html
    installation.rst
    history.rst
+   tutorials/new_tutorial/manual_contents.rst
    tutorials/new_syntax.rst
-   Future plans <todo>
+   Future plans
    faq.rst
    gallery.rst
    why_ruffus.rst
-   tutorials/new_tutorial/manual_contents.rst
-
+   release.rst
 
 
 =====================
@@ -61,11 +62,15 @@ Quick Reference:
    print_dependencies.rst
    adjacent_pairs_iterate.rst
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Contributing
+    :name: contributing_toc
 
-=====================
-Indices and tables
-=====================
+    contributing.rst
+
+=======
+Indices
+=======
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
